@@ -1,0 +1,27 @@
+env
+.env
+__pycache__/
+__pycache__/
+__pycache__/__init__.cpython-38.pyc
+**/__pycache__/
+
+vscode/
+.vscode/
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+**/.vscode/
+
+
+.env
+*.pyc
+*.pyo
+
+# C extensions
+
+*.so
+
+.venv/
+venv/
+
+.DS_Store
